@@ -12,7 +12,7 @@
     flex-wrap: wrap;
 }
 section.main{
-    background-image: url("/Imagens/bg.png");
+    background-image: url("Imagens/bg.png");
     background-position: center;
     background-size: cover;
     min-height: 700px;
